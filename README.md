@@ -1,4 +1,3 @@
-# MoE_vs_DenseTransformer_Benchmarking
 # MoE vs. Dense Transformer Models: A Comprehensive Benchmark Study
 
 ## Project Overview
